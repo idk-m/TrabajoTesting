@@ -1,4 +1,4 @@
-# Informe de Pruebas
+# Informe de Pruebas  爪卂尺ㄒ丨几 ㄚ 千尺卂匚丨丂匚ㄖ
 
 ## 2. Prueba de Navegación:
    - **Resultado:** Correcto
