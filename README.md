@@ -13,7 +13,6 @@
 ## 3. Prueba de Interacción:
    - **Resultado:** Correcto
    - **Descripción:** Se realizaron las siguientes pruebas:
-     - **Menús y Submenús:** Se simuló mover el cursor sobre los menús y submenús, y se verificó que se desplegaron correctamente.
      - **Botones y Enlaces:** Se escribió una prueba que simuló un clic en un botón o enlace específico y se verificó que la navegación o interacción se produjo como se esperaba.
 
 ## 4. Prueba de Respuesta:
